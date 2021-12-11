@@ -1,4 +1,4 @@
-# CSC-840: Cyber Operations I || DNS Tunneling Lab Demo (Draft Ver 0.2.0)
+# CSC-840: Cyber Operations I || DNS Tunneling Lab Demo (Draft)
 
 ## General infomation
 - **Author:**  Kevin Wafula
@@ -8,6 +8,7 @@
 - **Program:** PhD in Cyber Operations
 - **Institution:** Dakota State University  
 - **Description:** In part for fulfillment of the final exam project of CSC-840: Cyber Operations I
+- **Version:** Draft revision 0.2.0
 
 ## Why Should You Care
 DNS is a backone protocol of the internt infrastructure, it facilitates resolution of human readable domain names to IP Addresses that computing nodes require for network identification, connnectivity, and communicaiton. Without DNS, domain name resolution would be an impractical task. Each endpoint would have to establish and maintain a database all other endpoint on the internet in order to resolve domain names to IP Addresses. 
