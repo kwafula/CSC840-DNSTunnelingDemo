@@ -27,5 +27,6 @@ Further research should be done to extend the DNS protocol with seamless, low ef
 3. Detecting DNS Tunneling - https://www.giac.org/paper/gcia/1116/detecting-dns-tunneling/108367
 4. Detecting DNS tunneling in RSA NetWitness: DNS2TCP - https://community.rsa.com/t5/netwitness-blog/detecting-dns-tunneling-in-rsa-netwitness-dns2tcp/ba-p/521147
 5. DNSCAT2 Tool - https://github.com/iagox86/dnscat2
-6. DNSSEC - https://www.dnssec.net/
-7. DNSEC Adoption - https://blog.cloudflare.com/automatically-provision-and-maintain-dnssec/
+6. DNSSEC - https://www.youtube.com/watch?v=_8M_vuFcdZU
+7. DNSSEC - https://www.dnssec.net/
+8. DNSEC Adoption - https://blog.cloudflare.com/automatically-provision-and-maintain-dnssec/
