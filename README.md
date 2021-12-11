@@ -1,4 +1,4 @@
-# CSC840 DNS Tunneling Demo
+# CSC-840: Cyber Operations I || DNS Tunneling Lab Demo (Draft Ver 0.2.0)
 
 ## General infomation
 - **Author:**  Kevin Wafula
@@ -7,7 +7,8 @@
 - **Professor:** Dr. Michael Ham
 - **Program:** PhD in Cyber Operations
 - **Institution:** Dakota State University  
-- 
+- **Description:** In part for fulfillment of the final exam project of CSC-840: Cyber Operations I
+
 ## Why Should You Care
 DNS is a backone protocol of the internt infrastructure, it facilitates resolution of human readable domain names to IP Addresses that computing nodes require for network identification, connnectivity, and communicaiton. Without DNS, domain name resolution would be an impractical task. Each endpoint would have to establish and maintain a database all other endpoint on the internet in order to resolve domain names to IP Addresses. 
 
@@ -27,6 +28,7 @@ Further research should be done to extend the DNS protocol with seamless, low ef
 3. Detecting DNS Tunneling - https://www.giac.org/paper/gcia/1116/detecting-dns-tunneling/108367
 4. Detecting DNS tunneling in RSA NetWitness: DNS2TCP - https://community.rsa.com/t5/netwitness-blog/detecting-dns-tunneling-in-rsa-netwitness-dns2tcp/ba-p/521147
 5. DNSCAT2 Tool - https://github.com/iagox86/dnscat2
-6. DNSSEC - https://www.youtube.com/watch?v=_8M_vuFcdZU
-7. DNSSEC - https://www.dnssec.net/
-8. DNSEC Adoption - https://blog.cloudflare.com/automatically-provision-and-maintain-dnssec/
+6. DNSCAT Overview - https://www.youtube.com/watch?v=49F0co_VrTY
+7. DNSSEC - https://www.youtube.com/watch?v=_8M_vuFcdZU
+8. DNSSEC - https://www.dnssec.net/
+9. DNSEC Adoption - https://blog.cloudflare.com/automatically-provision-and-maintain-dnssec/
