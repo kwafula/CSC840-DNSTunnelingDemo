@@ -33,3 +33,4 @@ Further research should be done to extend the DNS protocol with seamless, low ef
 7. DNSSEC - https://www.youtube.com/watch?v=_8M_vuFcdZU
 8. DNSSEC - https://www.dnssec.net/
 9. DNSEC Adoption - https://blog.cloudflare.com/automatically-provision-and-maintain-dnssec/
+10. DNS Protocol Abuse/ Blackhat - https://www.youtube.com/watch?v=K0zH8lHNnAI
