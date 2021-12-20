@@ -24,7 +24,7 @@ Because DNS is a requirement for internet connectivity, organizations configure 
 Further research should be done to extend the DNS protocol with seamless, low effort capabilities for orgin authentication of DNS queries and responses. Authentication of DNS queries and responses coupled with query filtering can have a huge impact in mitigating DNS Tunneling attacks. While efforts like DNSSEC promise these features, the rate of adoption has been low largely becuase of the level of effort required to establish and maintain DNSSEC security features. More work needs to be done to ease deployment and maintainance of DNSSEC.
 
 ## Additional Resources
-1. Class Demo Video: https://youtu.be/shX9OEyM9KE
+1. Class Demo Video: Updated video pendingb upload
 2. What is DNS Tunneling? - https://www.infoblox.com/glossary/dns-tunneling/
 3. Detecting DNS Tunneling - https://www.giac.org/paper/gcia/1116/detecting-dns-tunneling/108367
 4. Detecting DNS tunneling in RSA NetWitness: DNS2TCP - https://community.rsa.com/t5/netwitness-blog/detecting-dns-tunneling-in-rsa-netwitness-dns2tcp/ba-p/521147
